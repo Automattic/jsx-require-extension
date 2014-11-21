@@ -1,6 +1,6 @@
 {
   "name": "jsx-require-extension",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A require.extensions loader for JSX files",
   "main": "index.js",
   "scripts": {
@@ -23,11 +23,11 @@
   },
   "license": "MIT",
   "dependencies": {
-    "react-tools": "0.11.2"
+    "react-tools": "0.12.1"
   },
   "devDependencies": {
     "chai": "1.10.0",
     "mocha": "2.0.1",
-    "react": "0.11.2"
+    "react": "0.12.1"
   }
 }

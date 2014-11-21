@@ -33,6 +33,7 @@ Use the following table to determine which version of _jsx-require-extension_ wo
 | React | jsx-require-extension |
 |-------|-----------------------|
 | 0.1.x - 0.11.x | 0.1 |
+| 0.12.x+ | 0.2 |
 
 ## License
 
